@@ -26,8 +26,3 @@ technology company.
 | jupyter_pdf.pdf | Python notebook exported to PDF |
 | Fitbit_PowerBI_Analysis.pbix | Power BI dashboard file |
 | Fitbit_PowerBI_Analysis_pdf.pdf | Power BI dashboard export |
-| STRAVA_FITNESS_APP.pptx | Full presentation deck |
-
-## Data Source
-FitBit Fitness Tracker Data (Kaggle) — 33 users, 
-April–May 2016
